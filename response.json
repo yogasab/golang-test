@@ -1,0 +1,74 @@
+{
+	"status": {
+		"code": "060101",
+		"message": "Delivery tracking detail fetched successfully"
+	},
+	"data": {
+		"receivedBy": "PAK MURADI",
+		"histories": [
+			{
+				"description": "DELIVERED TO [PAK MURADI  | 04-02-2021 10:22 | BEKASI ]",
+				"createdAt": "2021-02-04T10:22:00Z",
+				"formatted": {
+					"createdAt": "Thursday 04, February 2021 10:22 WIB"
+				}
+			},
+			{
+				"description": "WITH DELIVERY COURIER [BEKASI]",
+				"createdAt": "2021-02-04T08:55:00Z",
+				"formatted": {
+					"createdAt": "Thursday 04, February 2021 08:55 WIB"
+				}
+			},
+			{
+				"description": "RECEIVED AT INBOUND STATION [BEKASI, HUB JATIASIH 4]",
+				"createdAt": "2021-02-04T08:00:00Z",
+				"formatted": {
+					"createdAt": "Thursday 04, February 2021 08:00 WIB"
+				}
+			},
+			{
+				"description": "SHIPMENT FORWARDED TO DESTINATION [BEKASI, HUB JATIASIH 4]",
+				"createdAt": "2021-02-04T06:40:00Z",
+				"formatted": {
+					"createdAt": "Thursday 04, February 2021 06:40 WIB"
+				}
+			},
+			{
+				"description": "RECEIVED AT WAREHOUSE [INBOUND BKI1]",
+				"createdAt": "2021-02-04T02:06:00Z",
+				"formatted": {
+					"createdAt": "Thursday 04, February 2021 02:06 WIB"
+				}
+			},
+			{
+				"description": "RECEIVED AT ORIGIN GATEWAY [JAKARTA]",
+				"createdAt": "2021-02-04T00:15:00Z",
+				"formatted": {
+					"createdAt": "Thursday 04, February 2021 00:15 WIB"
+				}
+			},
+			{
+				"description": "PROCESSED AT SORTING CENTER [JAKARTA, BANDARA MAS(OUTBOUND)]",
+				"createdAt": "2021-02-03T22:38:00Z",
+				"formatted": {
+					"createdAt": "Wednesday 03, February 2021 22:38 WIB"
+				}
+			},
+			{
+				"description": "RECEIVED AT SORTING CENTER [JAKARTA]",
+				"createdAt": "2021-02-03T21:44:00Z",
+				"formatted": {
+					"createdAt": "Wednesday 03, February 2021 21:44 WIB"
+				}
+			},
+			{
+				"description": "SHIPMENT RECEIVED BY JNE COUNTER OFFICER AT [JAKARTA]",
+				"createdAt": "2021-02-03T20:26:00Z",
+				"formatted": {
+					"createdAt": "Wednesday 03, February 2021 20:26 WIB"
+				}
+			}
+		]
+	}
+}
